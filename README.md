@@ -1,14 +1,29 @@
 # Custom-Search-Engine-with-Exa
 Just some website that can extract all those cute cat videos for you.
 
-> A simple web application built with Python and Gradio that uses the Exa API to quickly find Instagram profiles based on keywords or names.
+A simple web application built with Python and Gradio that uses the Exa API to quickly find Instagram profiles based on keywords or names.
 
+I was making a simple project from Codedex, of making this simple "Custom Search engine with EXA," and that is the main.py file I have attached.
+
+After that, I thought it was fun to create a simple GUI with Gradio, which makes UI development a matter of a few lines of code. Therefore, I created a Main file, search.py, and a GUI file, gui.py.
+ 
 ## ✨ Features
 
 * **Targeted Search:** Specifically searches within the `instagram.com` domain.
 * **Personality Focus:** Automatically modifies queries (e.g., "Beyonce" becomes "Beyonce instagram profile") to prioritize finding official accounts.
 * **Robust Backend:** Utilizes the Exa API for intelligent, keyword-based search results.
 
+## 🖼️ Visual Preview
+
+A screenshot of the running application showing the search interface and results:  
+
+<p align="center">
+  <img src="webpage.png" alt="Screenshot of the website page." width="45%">
+  &nbsp; &nbsp; &nbsp; &nbsp; 
+  <img src="ig_page.png" alt="Screenshot of Instagram page it provided." width="45%">
+</p>
+
+---
 ## 🚀 Installation
 
 ### Prerequisites
